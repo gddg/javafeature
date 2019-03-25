@@ -7,5 +7,5 @@ JavaFeature from 1.5 1.6 1.7 1.8
 
 test new line .
  
-
+New.
 2018,I join a big java project. 
